@@ -2,12 +2,11 @@
 
 <!--
 **Akhu/Akhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 - 🔭 I’m currently working @[Async](https://async-agency.com) 
 - 🌱 I’m currently learning SwiftUI
 - 💬 Ask me about Innovation, Design and Development
 - 📫 How to reach me: anthony@async-agency.com 
--->
 
 ### 📕 Latest Blog Posts
 
