@@ -11,11 +11,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Webinaire] Sans développeur ni CTO dans l'équipe, comment assurer soi-même ?](https://blog.async-agency.com/sans-developpeur-ni-cto-dans-lequipe-comment-assurer-soi-meme/)
 - [Comment une plaque de cuisson peut vous rendre meilleur en design ?](https://blog.async-agency.com/comment-une-plaque-de-cuisson-peut-vous-rendre-meilleur-en-design/)
 - [Main Thread #2](https://blog.async-agency.com/main-thread-2/)
 - [4 indices qui révèlent qu'un développeur vous ment](https://blog.async-agency.com/les-choses-que-les-developpeurs-vous-cache/)
 - [Comment rédiger une bonne documentation technique ?](https://blog.async-agency.com/comment-rediger-une-bonne-documentation-technique-2/)
-- [📤  Comment publier une application Flutter en moins de 30 minutes sur le Google Play Store](https://blog.async-agency.com/comment-publier-une-application-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.async-agency.com)
