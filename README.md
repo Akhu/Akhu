@@ -11,11 +11,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [⭐️ Malt Tech Trends 2021 est sorti !](https://blog.async-agency.com/malt-tech-trends-2021-est-sorti/)
 - [Main Thread #3](https://blog.async-agency.com/main-thread-3/)
 - [3 manières simples d'organiser son code source.](https://blog.async-agency.com/3-manieres-simples-dorganiser-son-code-source/)
 - [Notre sélection d'outils no-code](https://blog.async-agency.com/notre-selection-doutils-no-code/)
 - [[Webinaire] Sans développeur ni CTO dans l'équipe, comment assurer soi-même ?](https://blog.async-agency.com/sans-developpeur-ni-cto-dans-lequipe-comment-assurer-soi-meme/)
-- [Comment une plaque de cuisson peut vous rendre meilleur en design ?](https://blog.async-agency.com/comment-une-plaque-de-cuisson-peut-vous-rendre-meilleur-en-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.async-agency.com)
