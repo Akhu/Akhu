@@ -11,11 +11,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment calculer sa trésorerie gratuitement et simplement ?](https://blog.async-agency.com/un-outil-de-suivi-de-tresorerie-simple-et-gratuit/)
 - [L’Aversion au changement la malédiction des boomers ? - [LPAC Ep.2]](https://blog.async-agency.com/lpac-ep2/)
 - [Main Thread #4](https://blog.async-agency.com/main-thread-4/)
 - [⭐️ Malt Tech Trends 2021 est sorti !](https://blog.async-agency.com/malt-tech-trends-2021-est-sorti/)
 - [Main Thread #3](https://blog.async-agency.com/main-thread-3/)
-- [3 manières simples d'organiser son code source.](https://blog.async-agency.com/3-manieres-simples-dorganiser-son-code-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.async-agency.com)
