@@ -11,11 +11,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Main thread #6](https://blog.async-agency.com/main-thread-6/)
 - [Non vous ne faites pas vraiment de l'UX en entreprise - Partie 2 sur 2](https://blog.async-agency.com/non-vous-ne-faites-pas-vraiment-de-lux-en-entreprise-partie-2-sur-2/)
 - [Main Thread #5](https://blog.async-agency.com/main-thread-5/)
 - [Non, vous ne faites pas vraiment d'UX dans votre entreprise - Partie 1 sur 2](https://blog.async-agency.com/non-vous-ne-faites-pas-vraiment-dux-dans-votre-entreprise/)
 - [Comment calculer sa trésorerie gratuitement et simplement ?](https://blog.async-agency.com/un-outil-de-suivi-de-tresorerie-simple-et-gratuit/)
-- [L’Aversion au changement la malédiction des boomers ? - [LPAC Ep.2]](https://blog.async-agency.com/lpac-ep2/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.async-agency.com)
