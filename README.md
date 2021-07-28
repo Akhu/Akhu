@@ -11,11 +11,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Réagir à l'état du réseau sur Android avec Kotlin](https://blog.async-agency.com/surveiller-letat-de-la-connexion-sur-android-avec-kotlin/)
 - [Main Thread #7](https://blog.async-agency.com/maint-thread-7/)
 - [Main thread #6](https://blog.async-agency.com/main-thread-6/)
 - [Non vous ne faites pas vraiment de l'UX en entreprise - Partie 2 sur 2](https://blog.async-agency.com/non-vous-ne-faites-pas-vraiment-de-lux-en-entreprise-partie-2-sur-2/)
 - [Main Thread #5](https://blog.async-agency.com/main-thread-5/)
-- [Non, vous ne faites pas vraiment d'UX dans votre entreprise - Partie 1 sur 2](https://blog.async-agency.com/non-vous-ne-faites-pas-vraiment-dux-dans-votre-entreprise/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.async-agency.com)
