@@ -11,11 +11,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Main Thread #8 Comment être bien payé en tant que développeur ?](https://blog.async-agency.com/main-thread-8-comment-etre-bien-paye-en-tant-que-developpeur/)
 - [Utiliser le format SVG avec XCode 12](https://blog.async-agency.com/utiliser-le-format-svg-avec-xcode-12/)
 - [Réagir à l'état du réseau sur Android avec Kotlin](https://blog.async-agency.com/surveiller-letat-de-la-connexion-sur-android-avec-kotlin/)
 - [Main Thread #7](https://blog.async-agency.com/maint-thread-7/)
 - [Main thread #6](https://blog.async-agency.com/main-thread-6/)
-- [Non vous ne faites pas vraiment de l'UX en entreprise - Partie 2 sur 2](https://blog.async-agency.com/non-vous-ne-faites-pas-vraiment-de-lux-en-entreprise-partie-2-sur-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.async-agency.com)
