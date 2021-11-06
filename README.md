@@ -11,11 +11,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🪖 Main Thread #12 Kikk, recrutement douteux et le futur.](https://blog.async-agency.com/main-thread-12/)
 - [🧪 Main Thread #11 - Nouveaux Macbook, Data et Télétravail](https://blog.async-agency.com/main-thread-11/)
 - [Main Thread #10 🤩](https://blog.async-agency.com/main-thread-10/)
 - [🔥 Voici comment résoudre n'importe quel problème (en 9 tips).](https://blog.async-agency.com/9-tips-pour-resoudre-un-probleme-en-programmation-en-cas-de-galere/)
 - [Main Thread #9](https://blog.async-agency.com/main-thread-9/)
-- [9 conseils concrets pour concevoir un site de qualité](https://blog.async-agency.com/9-conseils-concrets-pour-concevoir-un-site-de-qualite/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.async-agency.com)
