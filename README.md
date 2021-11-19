@@ -11,11 +11,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Faut-il passer à SwiftUI ?](https://blog.async-agency.com/faut-il-passer-a-swiftui/)
 - [🪖 Main Thread #12 Kikk, recrutement douteux et le futur.](https://blog.async-agency.com/main-thread-12/)
 - [🧪 Main Thread #11 - Nouveaux Macbook, Data et Télétravail](https://blog.async-agency.com/main-thread-11/)
 - [Main Thread #10 🤩](https://blog.async-agency.com/main-thread-10/)
 - [🔥 Voici comment résoudre n&#39;importe quel problème &lpar;en 9 tips&rpar;.](https://blog.async-agency.com/9-tips-pour-resoudre-un-probleme-en-programmation-en-cas-de-galere/)
-- [Main Thread #9](https://blog.async-agency.com/main-thread-9/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.async-agency.com)
