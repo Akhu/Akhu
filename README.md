@@ -12,7 +12,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Créer une intelligence artificielle en 5 minutes sans coder 🪄](https://blog.async-agency.com/creer-une-intelligence-artificielle-en-5-minutes/)
-- [💬 Main Thread #15 Bulles bleues vs vertes, sa carrière dans l&#39;xR et un MUST READ du web](https://blog.async-agency.com/main-thread-15/)
+- [💬 Main Thread #15 Bulles bleues vs vertes, sa carrière dans l&#39;xR et un MUST READ du web](https://blog.async-agency.com/main-thread-15-bulles-bleues-vs-vertes-sa-carriere-dans-lxr-et-un-must-read-du-web/)
 - [🔮 Main Thread #14 - Soyez au jus des tendances 2022](https://blog.async-agency.com/main-thread-14-soyez-au-jus-des-tendances-2022/)
 - [⭐️ Bonnes fêtes de fin d&#39;année !](https://blog.async-agency.com/bonnes-fetes-de-fin-dannee/)
 - [Comment créer un projet Vue3 &lpar;VueJS&rpar; ?](https://blog.async-agency.com/comment-creer-un-projet-vuejs-3/)
