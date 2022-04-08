@@ -11,11 +11,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [👾 Main Thread #20, un modèle de génération d&#39;image qui va tout changer.](https://blog.async-agency.com/main-thread-20-un-modele-de-generation-dimage-qui-va-tout-changermain-thread-20-pixel-war-ia-et-troubles-cardiaques/)
 - [🧰 Main Thread #19 - Investigation en Ukraine, Phishing tendance, Apps](https://blog.async-agency.com/main-thread-19-investigation-en-ukraine-phishing-tendance-apps/)
 - [🧮 Main Thread #18 Poupées flippantes, Covid, Analytics](https://blog.async-agency.com/main-thread-18-poupees-flippantes-covid-analytics/)
 - [Comment choisir une technologie pour un projet ?](https://blog.async-agency.com/memo-comment-choisir-une-technologie/)
 - [🚅 Main Thread #17 - IA, GPS, SNCF.](https://blog.async-agency.com/main-thread-17-ia-gps-sncf/)
-- [Comment déployer une IA CoreML avec Vapor](https://blog.async-agency.com/deployer-un-reseau-coreml-avec-vapor/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.async-agency.com)
