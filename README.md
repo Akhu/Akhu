@@ -22,15 +22,9 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anthony's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Akhu&show_icons=true&hide_border=true" />
-
-</details>
-
-
-[website]: https://async-agency.com
+[website]: https://async-studio.fr
+[unsplash]: https://unsplash.com/akhu
 [blog]: https://blog.async-agency.com
 [twitter]: https://twitter.com/anthokhun
 [linkedin]: https://www.linkedin.com/in/anthodacruz/
