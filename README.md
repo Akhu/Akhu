@@ -11,11 +11,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [#26 💶 L&#39;open source pour gagner de l&#39;argent, de la dataviz accessible et des outils indécents.](https://blog.async-agency.com/26-lopen-source-pour-gagner-de-largent-de-la-dataviz-accessible-et-des-outils-indecents/)
 - [📊 Tuto DataViz - Créer une app mobile avec Swift Charts et SwiftUI](https://blog.async-agency.com/tuto-dataviz-creer-une-app-mobile-avec-swift-charts-et-swiftui/)
 - [👩‍💻 Main Thread #25, le plein d’outils pour booster votre workflow](https://blog.async-agency.com/main-thread-25-le-plein-doutils-pour-booster-votre-workflow/)
 - [Comment faire un beau dégradé ? UI Design](https://blog.async-agency.com/comment-faire-un-beau-degrade-ui-design/)
 - [😱 Figma racheté par Adobe pour 20 Milliards de dollars. Les conséquences.](https://blog.async-agency.com/figma-rachete-par-adobe-pour-20-milliards-de-dollars-les-consequences/)
-- [📱Main Thread #24, Keynote, Track des avortements, Emojis 3D](https://blog.async-agency.com/main-thread-24-keynote-track-des-avortements-emojis-3d/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.async-agency.com)
