@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning SwiftUI and Svelte
 - 💬 Ask me about Innovation, Design and Development
 - 🦠 Long Covid developer are welcome to discuss and share their experiences, stay strong ! 
-- 📫 How to reach me: anthony@async-agency.com 
+- 📫 How to reach me: me@anthony-dacruz.com
 
 ### 📕 Latest Blog Posts
 
