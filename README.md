@@ -3,9 +3,10 @@
 <!--
 **Akhu/Akhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working @[Async](https://async-agency.com) 
-- 🌱 I’m currently learning SwiftUI
+- 🔭 I’m currently freelancing
+- 🌱 I’m currently learning SwiftUI and Svelte
 - 💬 Ask me about Innovation, Design and Development
+- 🦠 Long Covid developer are welcome to discuss and share their experiences, stay strong ! 
 - 📫 How to reach me: anthony@async-agency.com 
 
 ### 📕 Latest Blog Posts
@@ -23,8 +24,8 @@
 ---
 
 
-[website]: https://async-studio.fr
+[website]: In progress
 [unsplash]: https://unsplash.com/akhu
-[blog]: https://blog.async-agency.com
+[blog]: In progress
 [twitter]: https://twitter.com/anthokhun
 [linkedin]: https://www.linkedin.com/in/anthodacruz/
