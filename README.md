@@ -6,7 +6,7 @@
 - 🔭 I’m currently freelancing and teaching development, design and team management
 - 🌱 I’m currently in love with SwiftUI, SvelteKit and Serverless back-ends
 - 💬 Ask me about Innovation, Design and Development
-- 🦠 Long Covid developer are welcome to discuss and share their experiences, stay strong ! 
+- 🦠 Long Covid developer are [welcome to discuss and share their experiences](https://covid-long-soutien.fr), stay strong ! 
 - 📫 How to reach me: me@anthony-dacruz.com
 
 ## Writings 
