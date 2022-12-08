@@ -9,7 +9,12 @@
 - 🦠 Long Covid developer are welcome to discuss and share their experiences, stay strong ! 
 - 📫 How to reach me: me@anthony-dacruz.com
 
-### 📕 Latest Blog Posts
+## Writings 
+- You can check my newsletter (in 🇫🇷) dedicated to Long Covid and why you should avoid getting Covid -> [Meta Covid Long](https://metacovidlong.substack.com/)
+- *WIP* Creating a newsletter about Tech and Design
+- *WIP* Creating a newsletter about personnal development (not the type that people hate, trust me)
+
+### 📕 Latest Blog Posts (Old Blog)
 
 <!-- BLOG-POST-LIST:START -->
 - [🎃 MT #28, Rachat de Twitter : ce qui change, ce que j&#39;aurai aimé savoir en junior dev et malware Python.](https://blog.async-agency.com/mt-28-rachat-de-twitter-ce-qui-change-ce-que-jaurai-aime-savoir-en-junior-dev-et-malware-python/)
