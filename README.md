@@ -3,8 +3,8 @@
 <!--
 **Akhu/Akhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently freelancing
-- 🌱 I’m currently learning SwiftUI and Svelte
+- 🔭 I’m currently freelancing and teaching development, design and team management
+- 🌱 I’m currently in love with SwiftUI, SvelteKit and Serverless back-ends
 - 💬 Ask me about Innovation, Design and Development
 - 🦠 Long Covid developer are welcome to discuss and share their experiences, stay strong ! 
 - 📫 How to reach me: me@anthony-dacruz.com
