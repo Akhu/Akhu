@@ -5,7 +5,7 @@
 -->
 - 🔭 I’m currently freelancing and teaching development, design and team management
 - 🌱 I’m currently in love with SwiftUI, SvelteKit and Serverless back-ends
-- 💬 Ask me about Innovation, Design and Development
+- 💬 [Ask me about Innovation, Design and Development](https://twitter.com/anthokhun)
 - 🦠 Long Covid developer are [welcome to discuss and share their experiences](https://covid-long-soutien.fr), stay strong ! 
 - 📫 How to reach me: me@anthony-dacruz.com
 
@@ -29,8 +29,7 @@
 ---
 
 
-[website]: In progress
-[unsplash]: https://unsplash.com/akhu
-[blog]: In progress
-[twitter]: https://twitter.com/anthokhun
+[website]: In progress  
+[unsplash]: https://unsplash.com/akhu   
+[twitter]: https://twitter.com/anthokhun   
 [linkedin]: https://www.linkedin.com/in/anthodacruz/
