@@ -79,8 +79,6 @@ Check out the pinned repos below! 📌
 
 - 🌍 [anthony-dacruz.com](https://anthony-dacruz.com)
 - 📝 [blog.anthony-dacruz.com](https://blog.anthony-dacruz.com) — Technical articles
-- 💼 [LinkedIn](https://www.linkedin.com/in/anthony-dacruz)
-- 🐦 [Twitter](https://twitter.com/akhu)
 - 📧 [me@anthony-dacruz.com](mailto:me@anthony-dacruz.com)
 
 ---
